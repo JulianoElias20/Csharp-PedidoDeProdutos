@@ -1,0 +1,14 @@
+C:\Users\julia\source\repos\ComposicaoPedido\ComposicaoPedido\bin\Debug\net8.0\ComposicaoPedido.exe
+C:\Users\julia\source\repos\ComposicaoPedido\ComposicaoPedido\bin\Debug\net8.0\ComposicaoPedido.deps.json
+C:\Users\julia\source\repos\ComposicaoPedido\ComposicaoPedido\bin\Debug\net8.0\ComposicaoPedido.runtimeconfig.json
+C:\Users\julia\source\repos\ComposicaoPedido\ComposicaoPedido\bin\Debug\net8.0\ComposicaoPedido.dll
+C:\Users\julia\source\repos\ComposicaoPedido\ComposicaoPedido\bin\Debug\net8.0\ComposicaoPedido.pdb
+C:\Users\julia\source\repos\ComposicaoPedido\ComposicaoPedido\obj\Debug\net8.0\ComposicaoPedido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\source\repos\ComposicaoPedido\ComposicaoPedido\obj\Debug\net8.0\ComposicaoPedido.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\ComposicaoPedido\ComposicaoPedido\obj\Debug\net8.0\ComposicaoPedido.AssemblyInfo.cs
+C:\Users\julia\source\repos\ComposicaoPedido\ComposicaoPedido\obj\Debug\net8.0\ComposicaoPedido.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\ComposicaoPedido\ComposicaoPedido\obj\Debug\net8.0\ComposicaoPedido.dll
+C:\Users\julia\source\repos\ComposicaoPedido\ComposicaoPedido\obj\Debug\net8.0\refint\ComposicaoPedido.dll
+C:\Users\julia\source\repos\ComposicaoPedido\ComposicaoPedido\obj\Debug\net8.0\ComposicaoPedido.pdb
+C:\Users\julia\source\repos\ComposicaoPedido\ComposicaoPedido\obj\Debug\net8.0\ComposicaoPedido.genruntimeconfig.cache
+C:\Users\julia\source\repos\ComposicaoPedido\ComposicaoPedido\obj\Debug\net8.0\ref\ComposicaoPedido.dll
